@@ -1,0 +1,54 @@
+@import  url(https://fonts.googleapis.com/css?family=PT Sans Caption);
+
+h1 {
+  text-align: center;
+  padding: 1em;
+  color: #604d53;
+  font-weight:600;
+  }
+
+h3 {
+  color: #604d53;
+  font-weight:600;
+}
+body {
+  background-color: #ffdbda;
+  color: #9da3a4;
+  font-family: 'PT Sans Caption';
+  font-weight:400;
+}
+
+p {
+  padding: 1em 5em 3em;
+  font-size: 1.2em;
+}
+
+.container {
+  width: 80%;
+  padding: 1em, 5em 1em;
+}
+
+#home {
+  width: 50%; 
+}
+
+#navbar {
+  padding: 1em 5em 3em;
+}
+
+.nav-link {
+  color: #db7f8e;
+}
+
+#blue {
+  color: #22cae0;
+}
+
+#tablehead {
+  background-color: #d5c5c8;
+}
+
+.link {
+  color: #604d53;
+  text-decoration: underline;
+}
